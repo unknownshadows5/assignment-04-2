@@ -19,7 +19,7 @@ const min = function(x, y) {
 // console.log(calculateCircumference(5)); // will output 31.4
 
 const calculateCircumference = function(radius) {
-
+    return 2 * 3.14 * radius;
 };
 
 
